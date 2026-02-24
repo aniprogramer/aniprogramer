@@ -45,15 +45,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-546knps7h-aniket-des-projects-a8236f31.vercel.app/api?username=aniprogramer&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  &nbsp;
   <img src="https://streak-stats.demolab.com/?user=aniprogramer&theme=tokyonight&hide_border=true" width="50%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats-546knps7h-aniket-des-projects-a8236f31.vercel.app/api/top-langs/?username=aniprogramer&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 &nbsp;
 
 ## 🌍 Find Me Around the Web
