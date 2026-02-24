@@ -15,14 +15,14 @@
 ## 🌱 I’m currently learning:
 
 - 🔁 DSA in Java (Daily problems + contests)
-- 🌐 Full Stack Web Development
+- 🌐 Full Stack Web Development (MERN)
 - 🧠 AI & ML with Python, YOLO, TensorFlow
 
 ## 💼 I’m working on:
 
-- 🏨 Hotel Room Service and Billing System
-- 🗣️ Tulu Language Preservation Model
-- 🎵 Spotify Clone
+- WanderLust Website
+- Compiler Design
+- Sentinal-Agents
 
 ## 🎯 My goal this year:
 
@@ -45,14 +45,13 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniprogramer&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=aniprogramer&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
   &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=aniprogramer&theme=tokyonight&hide_border=true" width="50%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=aniprogramer&theme=tokyonight&hide_border=true" width="50%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniprogramer&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=aniprogramer&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 &nbsp;
