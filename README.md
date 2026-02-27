@@ -20,7 +20,7 @@
 
 ## 💼 I’m working on:
 
-- WanderLust Website
+- WanderLust Website (Done)
 - Compiler Design
 - Sentinal-Agents
 
