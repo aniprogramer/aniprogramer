@@ -15,7 +15,7 @@
 ## 🌱 I’m currently learning:
 
 - 🔁 DSA in Java (Daily problems + contests)
-- 🌐 Full Stack Web Development (MERN)
+- 🌐 Full Stack Web Development (MERN) (Accomplished :))
 - 🧠 AI & ML with Python, YOLO, TensorFlow
 
 ## 💼 I’m working on:
