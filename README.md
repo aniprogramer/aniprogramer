@@ -20,13 +20,10 @@
 
 ## 💼 I’m working on:
 
-- WanderLust Website (Done)
-- Compiler Design
-- Sentinal-Agents
+- Antar Setu (My version video calling platform)
 
 ## 🎯 My goal this year:
 
-- 💻 Land a front-end/web internship
 - 🧠 Crack major tech placements
 - 🏆 Start ranking in DSA contests
 
